@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: 'Tapestry', cursive;
+}
+canvas
+{
+    border:3px solid yellow ;
+    box-shadow: 3px 3px 3px grey;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.footer
+{
+    background-color: lightcoral;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    text-shadow: 3px 3px 3px rgb(230, 26, 11);
+}
